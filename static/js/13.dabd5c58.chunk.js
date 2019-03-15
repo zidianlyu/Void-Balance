@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{883:function(p,a,d){p.exports=d.p+"static/media/template.df49aadc.md"}}]);

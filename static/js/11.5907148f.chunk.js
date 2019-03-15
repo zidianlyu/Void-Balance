@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{881:function(o,p,c){o.exports=c.p+"static/media/google2018.5c2a31ec.md"}}]);

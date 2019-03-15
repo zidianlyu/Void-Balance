@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{882:function(a,p,c){a.exports=c.p+"static/media/mathematics.bd7b2ca5.md"}}]);
